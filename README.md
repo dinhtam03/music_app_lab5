@@ -4,10 +4,8 @@ A new Flutter project.
 
 
 LINK driver: https://drive.google.com/file/d/1NfmO4YkU2cx0VnVbEzYFudisxNOCBNWU/view?usp=drive_link
-<img width="1919" height="912" alt="image-6" src="https://github.com/user-attachments/assets/934b67e8-21c1-4731-8d5a-98040d74407a" />
-<img width="1919" height="923" alt="image-5" src="https://github.com/user-attachments/assets/8deefbf0-c964-43f4-aa61-452c1fd5ed85" />
-<img width="1919" height="923" alt="image-4" src="https://github.com/user-attachments/assets/fed89f6c-edf6-4ac8-9217-25686f29f0f4" />
-<img width="1919" height="965" alt="image-3" src="https://github.com/user-attachments/assets/343d012f-6035-4e47-8baf-a4886a48e481" />
-<img width="1919" height="927" alt="image-2" src="https://github.com/user-attachments/assets/bbd8d40c-7fdf-43e0-a234-96c161a6f43e" />
-<img width="1919" height="976" alt="image-1" src="https://github.com/user-attachments/assets/df8316e5-56de-471b-aa09-d783393c8df4" />
-<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/b0cfd712-1fe7-430a-8870-922e0599e6ca" />
+<img width="1920" height="1030" alt="Muse - Google Chrome 16_12_2025 11_17_55 CH" src="https://github.com/user-attachments/assets/fdb7a31e-3c62-4ca9-8467-5bb00a4952ea" />
+<img width="1920" height="1030" alt="Muse - Google Chrome 16_12_2025 11_18_40 CH" src="https://github.com/user-attachments/assets/3766babd-2ece-40b4-b911-8b546df74216" />
+<img width="1920" height="1030" alt="Muse - Google Chrome 16_12_2025 11_18_31 CH" src="https://github.com/user-attachments/assets/1444770b-f76c-49bf-8659-a88a2d8cf8f8" />
+<img width="1920" height="1030" alt="Muse - Google Chrome 16_12_2025 11_18_19 CH" src="https://github.com/user-attachments/assets/3f6ee79c-e89b-4e5a-aee6-cc6707141396" />
+<img width="1920" height="1030" alt="Muse - Google Chrome 16_12_2025 11_18_11 CH" src="https://github.com/user-attachments/assets/d860676a-ec20-4cad-b082-465732670112" />
